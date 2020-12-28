@@ -27,4 +27,4 @@ prose:
     - /js
     - /css
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
