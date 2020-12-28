@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # basic configuration
 markdown: kramdown
 permalink: /:categories/:title/
@@ -27,4 +29,3 @@ prose:
     - /js
     - /css
 
-theme: jekyll-theme-midnight
